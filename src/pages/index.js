@@ -18,5 +18,5 @@ const IndexPage = () => (
     <Link to="/using-typescript/">Go to "Using TypeScript"</Link>
   </Layout>
 )
-
+//It is working
 export default IndexPage
